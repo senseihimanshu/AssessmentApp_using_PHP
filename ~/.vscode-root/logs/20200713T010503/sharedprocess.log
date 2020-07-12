@@ -1,3 +1,0 @@
-[2020-07-13 01:05:06.886] [sharedprocess] [info] main {"machineId":"6d9218f2e5514da5d0993f18f8d3bbac9620b09210942e20e072ba760774fbcc","windowId":2}
-[2020-07-13 01:05:06.937] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/local/ampps/www/php.dev/~/.vscode-root/User/snippets'
-[2020-07-13 01:05:46.909] [sharedprocess] [info] Starting to clean up unused language packs.
