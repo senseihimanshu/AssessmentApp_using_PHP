@@ -390,3 +390,4 @@ Use '--' to separate paths from revisions, like this:
 > git show --textconv :views/home/index.php
 > git ls-files --stage -- /usr/local/ampps/www/php.dev/views/home/index.php
 > git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
