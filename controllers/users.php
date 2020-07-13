@@ -4,4 +4,9 @@ class Users extends Controller{
         $viewmodel = new UserModel();
         $this->returnView($viewmodel->Index(), true);
     }
+
+    protected function add(){
+        $viewmodel = new UserModel();
+        $this->returnView($viewmodel->add(), true);
+    }
 } 
