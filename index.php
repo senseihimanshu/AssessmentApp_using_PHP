@@ -8,9 +8,11 @@ require('classes/Controller.php');
 
 require('controllers/home.php');
 require('controllers/users.php');
+require('controllers/evaluates.php');
 
 require('models/home.php');
 require('models/user.php');
+require('models/evaluate.php');
 
 $bootstrap = new Bootstrap($_GET);
 $controller = $bootstrap->createController();

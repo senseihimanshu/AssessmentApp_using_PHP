@@ -1,7 +1,7 @@
 <?php
-class Home extends Controller{
+class Users extends Controller{
     protected function Index(){
-        $viewmodel = new HomeModel();
+        $viewmodel = new EvaluateModel();
         $this->returnView($viewmodel->Index(), true);
     }
 }

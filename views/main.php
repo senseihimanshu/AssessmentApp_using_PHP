@@ -33,7 +33,7 @@
     <div class="container">
 
      <div class="row">
-     	<?php require($view); ?>
+     	<?php require(strToLower($view)); ?>
      </div>
 
     </div>
