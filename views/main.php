@@ -19,7 +19,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="<?php echo ROOT_URL; ?>">Home</a></li>
-            <li><a href="<?php echo ROOT_URL; ?>result">Result</a></li>
+            <li><a href="<?php echo ROOT_URL; ?>users">User</a></li>
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
